@@ -1,16 +1,11 @@
-# space-jam-dark README
+## Space Jam: A Dark Theme for VS Code
+A space themed VS code theme. 
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Theme Preview](images/preview.png)
+![Theme Color Palette](images/palette.png)
 
 ## For more information
+* [Space Jam Github Repository](https://github.com/canavarrete01/space-jam-dark.git)
+* [Personal Website with More Projects](https://canavarrete01.github.io/)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Enjoy and have fun coding!**
