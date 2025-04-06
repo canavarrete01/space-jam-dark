@@ -1,7 +1,8 @@
 ## Space Jam: A Dark Theme for VS Code
 A space themed VS code theme. 
 
-![Theme Preview](images/preview.png)
+![Theme Preview](images/textpreview.png)
+![Theme Preview #2](images/screenpreview.png)
 ![Theme Color Palette](images/palette.png)
 
 ## For more information
