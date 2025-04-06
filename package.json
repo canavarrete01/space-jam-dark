@@ -2,11 +2,11 @@
   "name": "space-jam-dark",
   "displayName": "Space Jam",
   "description": "Neon Space Theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "CarolinaNav",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/canavarrete01/space-jam-dark.git"
+    "type": "git",
+    "url": "https://github.com/canavarrete01/space-jam-dark.git"
   },
   "keywords": [
     "themes",
@@ -16,7 +16,6 @@
     "Neon Space Theme",
     "Space Jam",
     "Space Jam Theme"
-
   ],
   "engines": {
     "vscode": "^1.98.0"
