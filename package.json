@@ -1,0 +1,21 @@
+{
+  "name": "space-jam-dark",
+  "displayName": "Space Jam",
+  "description": "Neon Space Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Jam Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Jam Theme-color-theme.json"
+      }
+    ]
+  }
+}
