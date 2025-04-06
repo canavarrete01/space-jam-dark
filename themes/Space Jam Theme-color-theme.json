@@ -8,7 +8,7 @@
 		"tab.activeBackground": "#1c1a2a",
 		"tab.inactiveBackground": "#2a244d",
 		"tab.activeForeground": "#FFFFFF",
-		"tab.inactiveForeground": "#C0E0FF",
+		"tab.inactiveForeground": "#c0e0ff",
 
 		"tab.border": "#494661",
 		"tab.activeBorderTop": "#88A2FF",
@@ -102,7 +102,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#88A2FF"
+				"foreground": "#e4e9f9"
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#E3FC87"
+				"foreground": "#e3fc87"
 			}
 		},
 		{
