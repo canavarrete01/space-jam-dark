@@ -1,12 +1,18 @@
 node_modules
 *.vsix
 
+# System Files
 .DS_Store
 .env
-dist/
-coverage/
-.vscode/
-.idea/
 *.log
 *.tmp
 *.swp
+
+# Folders
+coverage/
+.vscode/
+.idea/
+
+# VS Code Extension Set Up
+vsc-extension-*
+.vscodeignore
