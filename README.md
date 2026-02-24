@@ -15,3 +15,6 @@ A space themed VS code theme.
 * [Personal Website with More Projects](https://canavarrete01.github.io/)
 
 **Enjoy and have fun coding!**
+
+##
+Update: Updated Color Palette and new Light Mode (!)
