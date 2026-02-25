@@ -2,13 +2,13 @@
 	"name": "Space Jam Dark",
 	"colors": {
 		"editor.background": "#1c1a2a",
-		"editor.foreground": "#C0E0FF",
+		"editor.foreground": "#EBF5FF",
 		"activityBarBadge.background": "#ff79c6",
 		"sideBarTitle.foreground": "#FFB2F7",
 		"tab.activeBackground": "#1c1a2a",
 		"tab.inactiveBackground": "#2a244d",
 		"tab.activeForeground": "#FFFFFF",
-		"tab.inactiveForeground": "#c0e0ff",
+		"tab.inactiveForeground": "#FFB2F7",
 
 		"tab.border": "#494661",
 		"tab.activeBorderTop": "#88A2FF",
@@ -16,20 +16,20 @@
 		"tab.unfocusedActiveBorder": "#7e90d0",
 		
 		"activityBar.background": "#36324b",
-		"activityBar.foreground": "#C0E0FF",
+		"activityBar.foreground": "#EBF5FF",
 		"activityBar.inactiveForeground": "#7e90d0",
 		"activityBar.border": "#2a244d",
 		
 		"sideBar.background": "#18142ec6",
-		"sideBar.foreground": "#C0E0FF",
+		"sideBar.foreground": "#EBF5FF",
 		"sideBar.border": "#4a4476",
 		
 		"statusBar.background": "#1c1a2a",
-		"statusBar.foreground": "#C0E0FF",
+		"statusBar.foreground": "#EBF5FF",
 		"statusBar.border": "#2a244d",
 
 		"titleBar.activeBackground": "#1c1a2a",
-		"titleBar.activeForeground": "#C0E0FF",
+		"titleBar.activeForeground": "#EBF5FF",
 		"titleBar.inactiveBackground": "#18142ec6",
 		"titleBar.inactiveForeground": "#7e90d0"
 	},
@@ -52,7 +52,17 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#C0E0FF"
+				"foreground": "#FFB2F7" 
+			}
+		},
+		{
+			"name": "Constants",
+			"scope": [
+				"variable.other.constant",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#F4F9FF"
 			}
 		},
 		{
@@ -113,7 +123,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#e3fc87"
+				"foreground": "#EEC643"
 			}
 		},
 		{
@@ -126,7 +136,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#C0E0FF"
+				"foreground": "#F4F9FF"
 			}
 		},
 		{
@@ -142,7 +152,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#E3FC87"
+				"foreground": "#F4F9FF"
 			}
 		},
 		{
@@ -190,7 +200,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#E3FC87"
+				"foreground": "#EEC643"
 			}
 		},
 		{
@@ -228,7 +238,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#E3FC87"
+				"foreground": "#EEC643"
 			}
 		},
 		{
@@ -238,7 +248,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#C0E0FF"
+				"foreground": "#F4F9FF"
 			}
 		},
 		{
